@@ -1,6 +1,7 @@
 [![Header](https://github.com/ALADaM07/ALADaM07/blob/main/ALADaM-Cover.jpg "Header")](https://some-url.dev/)
 
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 <!--
 **ALADaM07/ALADaM07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
