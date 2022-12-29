@@ -6,7 +6,7 @@ Welcome to my GitHub profile,
 
 My name is Mohamad Alamin,
 
-🌱 I’m currently studying to become fullstack developer.
+🌱 I’m currently studying to become a fullstack developer.
 
 Beside coding:
 
